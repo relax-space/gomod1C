@@ -1,3 +1,3 @@
-module github.com/relax-space/gomod1C
+module github.com/relax-space/gomod1C/v2
 
 go 1.24.4
